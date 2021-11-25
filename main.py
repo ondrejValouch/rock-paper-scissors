@@ -1,7 +1,7 @@
 import random
 
 users_choice = input('Make your choice: rock, paper, scissors: ')
-number = random.randint(0,3)
+number = random.randint(0,2)
 
 rock = '''
     _______
